@@ -1,0 +1,15 @@
+Puntero: es una variable que almacena la dirección de memoria de otra variable. Los punteros se utilizan para acceder y manipular datos almacenados en la memoria. 
+
+Constructor: es un método especial de una clase que se utiliza para inicializar los atributos de un objeto cuando se crea una instancia de esa clase. 
+Los constructores tienen el mismo nombre que la clase y no tienen ningún tipo de retorno. Pueden tener parámetros para inicializar los atributos con valores específicos. 
+El constructor se ejecuta automáticamente cuando se crea un objeto de la clase.
+
+GitHub: es una plataforma de desarrollo colaborativo de software para alojar proyectos utilizando el sistema de control de versiones Git. 
+Permite a los desarrolladores trabajar en equipo, colaborar en el desarrollo de software y realizar un seguimiento de los cambios realizados en el código fuente.
+
+Clases 
+La clase se considera algo que engloba a varios objetos similares, del cual podemos partir con esa información general y poder describir a un objeto.
+Objeto
+Es un elemento muy simple, el cual se encuentra englobado en una clase con varios objetos similares. Cada objeto tiene sus propios atributos.
+Atributo
+Son las características que tiene cada objeto, haciendo que se pueda diferencia entre el resto de objetos de una misma clase.
