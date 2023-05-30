@@ -13,3 +13,15 @@ Objeto
 Es un elemento muy simple, el cual se encuentra englobado en una clase con varios objetos similares. Cada objeto tiene sus propios atributos.
 Atributo
 Son las características que tiene cada objeto, haciendo que se pueda diferencia entre el resto de objetos de una misma clase.
+
+- Método
+
+El método se define como la metodología que hace referencia al conjunto de procedimientos relacionales para llegar a tener estrategias, procedimientos y técnicas que encaminan a la acción hacia un objetivo específico.
+
+- Setters
+
+Se fija o se establece un valor o nombre al atributo
+
+- Getters
+
+Se utiliza para obtener u acceder a un valor de un atributo
