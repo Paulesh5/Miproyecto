@@ -4,19 +4,3 @@ Objeto
 Es un elemento muy simple, el cual se encuentra englobado en una clase con varios objetos similares. Cada objeto tiene sus propios atributos.
 Atributo
 Son las características que tiene cada objeto, haciendo que se pueda diferencia entre el resto de objetos de una misma clase.
-Método 
-Son las tareas o acciones que realiza un objeto 
-Setters 
-Es un método por el cual podemos asignar un valor
-Getters 
-Es un método por el cual podemos obtener un valor ya almacenado
-Puntero
-Es la dirección de memoria que se asigna a una variable
-Constructor
-Los constructores son los métodos por los cuales se puede asignar valores iniciales a las variables de una instancia en un objeto recién creado. 
-Git Hub
-Es una manera de poder almacenar un código en una plataforma en línea, y poder colaborar con otras personas, permitiendo controlar las versiones del código
-
-Nombre: Paúl Hidalgo
-
-Hola a todos
