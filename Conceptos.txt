@@ -1,6 +1,0 @@
-Clases 
-La clase se considera algo que engloba a varios objetos similares, del cual podemos partir con esa información general y poder describir a un objeto.
-Objeto
-Es un elemento muy simple, el cual se encuentra englobado en una clase con varios objetos similares. Cada objeto tiene sus propios atributos.
-Atributo
-Son las características que tiene cada objeto, haciendo que se pueda diferencia entre el resto de objetos de una misma clase.
